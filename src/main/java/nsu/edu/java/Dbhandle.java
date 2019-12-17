@@ -10,7 +10,6 @@ import java.util.ArrayList;
 
 public class Dbhandle {
     private Connection conn = null; //连接
-
     private PreparedStatement ps = null;
     private ResultSet rs = null;
 
